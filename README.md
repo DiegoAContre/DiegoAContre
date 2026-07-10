@@ -43,12 +43,14 @@
 <!-- ----------------------------------------------------------------- -->
 <!--                      ESTADÍSTICAS DE GITHUB                       -->
 <!-- ----------------------------------------------------------------- -->
+<!--
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoAContre&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAContre&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
 </p>
+-->
 
 <!-- ----------------------------------------------------------------- -->
 <!--                       PROYECTO DESTACADO                          -->
