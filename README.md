@@ -78,17 +78,33 @@
 </p> -->
 
 <!-- ================================================================= -->
-<!--                       PROYECTO DESTACADO                          -->
+<!--                        PROJECTS                                   -->
 <!-- ================================================================= -->
-<h2 align="center">🚀 Featured Project</h2>
+<h2 align="center">🚀 Projects</h2>
 
-<p align="center">
-  <strong>University Video Chat</strong><br>
-  A video chat application for communication between students and teachers, built with Node.js, Socket.IO, and WebRTC.
-</p>
+<h3 align="center">University Video Chat</h3>
+<p align="center">A video chat application for communication between students and teachers, built with Node.js, Socket.IO, and WebRTC.</p>
 
 <p align="center">
   <a href="https://github.com/DiegoAContre/video-chat-proyecto">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
+</p>
+
+<h3 align="center">🎨 Practice Projects</h3>
+<p align="center">CSS and UI skill-building projects (built without AI).</p>
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| [moviedb](https://github.com/DiegoAContre/style-practice/tree/main/moviedb) | Movie search app — find where to stream any movie or show | React 19 · Vite · Vitest |
+| [my-own-drive](https://github.com/DiegoAContre/style-practice/tree/main/my-own-drive) | Personal cloud storage — Google Drive–like with Supabase | React 19 · Supabase |
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/DiegoAContre/style-practice">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </p>
